@@ -1,0 +1,19 @@
+name: "Microbiome Network India"
+output_dir: "docs"  
+navbar:
+  title: "Microbiome Network India"
+  left:
+    - text: "Home"
+      href: index.html
+    - text: "About"
+      href: about.html
+    - text: "Activities"
+      href: Activities.html
+    - text: "Code of Conduct"
+      href: CodeOfConduct.html
+      
+      
+      
+output:
+  html_document:
+    theme: sandstone    
