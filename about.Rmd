@@ -6,12 +6,12 @@ We are a group of researchers working around the world and connected with our sh
 The **Microbiome Network India** was conceptualized as a way to connect microbiome researchers of Indian origin and build a community that works towards:  
 
 * Connecting with Indian microbiome experts.   
-* Sharing our global expertise. 
+* Sharing our global expertise.  
 * Fostering collaborations.  
 * Creating awareness for microbiome research.   
 * Organising talks and workshops.  
 
-At present, the **Microbiome Network India** has 36 members from 8 time-zones (!) and at different stages of career.   
+At present, the **Microbiome Network India** has 36 members from 8 time-zones (!) and at different stages of research career.   
 
 Interested?  
 Join our slack workspace [microbiome-network-in](https://join.slack.com/t/microbiome-network-in/shared_invite/zt-skbpgrhs-C7REKkLMwUWSiypkRR_hfw)   
@@ -69,5 +69,5 @@ You?
 * You?  
 
 ### Mentors/Advisors  
-* Dr. YOgesh S. Shouche ([info](https://www.theysslab.com/team.html))   
+* Dr. Yogesh S. Shouche ([info](https://www.theysslab.com/team.html))   
 * You?  
